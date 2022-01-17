@@ -1,0 +1,49 @@
+.select{
+    width: 1280px;
+    display: flex;
+    align-items: top;
+    padding: 0 85px;
+}
+
+.intro{
+    width: 255px;
+   
+}
+
+.intro__list{
+    padding: 0;
+}
+
+.intro__item{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.intro__mark{
+    margin-right: 24px;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.intro__mark:hover{
+    color: #0E8784;
+}
+
+.intro__text{
+    font-family: Fraunces ;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+}
+
+.intro__text:hover{
+    color: #333D4B; 
+}

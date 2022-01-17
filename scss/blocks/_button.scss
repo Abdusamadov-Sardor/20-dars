@@ -1,0 +1,21 @@
+.button{
+    
+    display: flex;
+    justify-content: end;
+    border: none;
+    padding: 15px 35px;
+    margin-left: 622px;
+    margin-bottom: 168px;
+    background: #E2DEDB;
+    border-radius: 6px;
+    font-family: Fraunces 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FEFCF7;
+}
+.button:hover{
+    background: #66D2CF;
+}

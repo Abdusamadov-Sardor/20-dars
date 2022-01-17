@@ -1,0 +1,92 @@
+.how-it{
+    background-color: $main-color;
+    width: 1280px;
+    margin-bottom: 168px;
+    padding: 100px 85px;
+}
+        
+    
+    
+    .arifmetic{
+        
+        display: flex;
+        align-items: center;
+        margin-bottom: 67px;
+        
+        
+    }
+    
+    .span-1{
+        width: 31px;
+        border: 2px solid #0E8784;
+        padding: 15px;
+        border-radius: 50%;
+    }
+    .span-2{
+        width: 341px;
+        border: 1px solid #FDD6BA;
+    }
+    .span-3{
+        width: 31px;
+        border: 2px solid #0E8784;
+        padding: 15px;
+        border-radius: 50%;
+    }
+    .span-4{
+        width: 350px;
+        border: 1px solid #FDD6BA;
+    }
+    .span-5{
+        width: 31px;
+        border: 2px solid #0E8784;
+        padding: 15px;
+        border-radius: 50%;
+    }
+    
+    .how-it-list{
+        width: 1280px;
+        margin-right: auto;
+        display: flex;
+      padding: 0;
+        align-items: center;
+        margin-bottom: 64px;
+        
+    }
+    .how-it__item{
+        width: 285px;
+    }
+
+    .how-it__item ~ .how-it__item{
+        margin-left: 95px;
+    }
+    .how-it__mark{
+        margin-bottom: 38px;
+        font-family: Fraunces ;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 72px;
+        color: #FDD6BA;
+        
+    }
+    .how-it__title{
+        font-family: Fraunces ;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 36px;
+        color: $title-color;
+        margin-bottom: 42px;
+    }
+    .how-it__text{
+        font-family: Barlow;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color:$title-color;
+    }
+    .main__logo{
+        text-decoration: none;
+        
+    }
